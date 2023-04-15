@@ -9,5 +9,6 @@ EditorBuildSettings:
     path: Assets/DrawNote/Scenes/MainScene.unity
     guid: 6ef69b5686de0b3468cf3560b229335d
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 44e39031fea57ac4cb46fc541342a87d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8df5ef8543ec8094a8f3083fce23b652, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 221c5157701af254b891843dacd1332f, type: 2}
